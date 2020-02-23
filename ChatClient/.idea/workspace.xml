@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1854e6c-dedf-44c1-a33e-70bb16c19bd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ChatClient2/ChatClient.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ChatServer/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ChatClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ClientThreadRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClientThreadRead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ClientThreadWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClientThreadWrite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChatServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChatServer/src/main/java/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/src/main/java/ChatServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChatServer/src/main/java/ClientThreads.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/src/main/java/ClientThreads.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChatServer/src/main/java/ClientThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/src/main/java/ClientThreads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChatServer/target/classes/ChatServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/target/classes/ChatServer.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
