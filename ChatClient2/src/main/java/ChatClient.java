@@ -3,11 +3,11 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 
 public class ChatClient {
-    private String hostname;
     private int port;
+    private String hostname;
     private String userName;
 
-    public ChatClient(String hostname,int port) {
+    public ChatClient( String hostname,int port) {
 
         this.hostname = hostname;
         this.port = port;

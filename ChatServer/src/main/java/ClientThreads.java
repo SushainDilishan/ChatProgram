@@ -28,22 +28,25 @@ public void run(){
 
          chatServer.addClient(clientName);
 
-         String serverMessage = "New Client connected" + clientName;
+         String serverMessage = "New Client connected " + clientName;
          chatServer.broadcast(serverMessage,this);
 
          String clientMessage;
 
-         do{
-             clientMessage = reader.readLine();
-             serverMessage = "["+clientName+"]" +clientMessage;
-             chatServer.broadcast(serverMessage, this);
+        do {
+            clientMessage = reader.readLine();
+            serverMessage = "[" + clientName+ "]: " + clientMessage;
+            chatServer.broadcast(serverMessage, this);
 
-         }while (!clientMessage.equals("bye"));
+        } while (!clientMessage.equals("bye"));
 
-            chatServer.removeClient(clientName,this);
-            socket.close();
-            serverMessage = clientMessage + "has exited Chatroom.";
-            chatServer.broadcast(serverMessage,this);
+        chatServer.removeClient(clientName, this);
+        socket.close();
+
+        serverMessage = clientName + " has quitted.";
+         chatServer.broadcast(serverMessage, this);
+
+
 
     }catch (IOException ex){
         System.out.println("ClientThread Error:"+ex.getMessage());
@@ -51,7 +54,7 @@ public void run(){
     }
 }
 
-    private void printUsers() {
+     void printUsers() {
     if(chatServer.hasUsers()){
 
         printWriter.println("Connected Clients: "+ chatServer.getChatUsers());

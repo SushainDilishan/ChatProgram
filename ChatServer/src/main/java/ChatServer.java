@@ -42,10 +42,10 @@ public class ChatServer {
 
 
     }
-    void broadcast(String msg,ClientThreads excludeclient){
+    void broadcast(String msg,ClientThreads excludeClient){
         for (ClientThreads client: clientThreads){
 
-            if (client !=excludeclient){
+            if (client !=excludeClient){
                 client.sendMessage(msg);
             }
         }

@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f7e44b3-ab3c-42de-9f25-895a5d55b8b9" name="Default Changelist" comment="" />
+    <list default="true" id="5f7e44b3-ab3c-42de-9f25-895a5d55b8b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ChatClient2/ChatClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/src/main/java/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/src/main/java/ChatClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/src/main/java/ClientThreadRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/src/main/java/ClientThreadRead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatClient/src/main/java/ClientThreadWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatClient/src/main/java/ClientThreadWrite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ChatServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ClientThreads.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClientThreads.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ClientThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClientThreads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ChatServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ChatServer.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Y7g5Yihng5V2f53BQ2wU7DvarU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -67,22 +85,22 @@
       <screen x="0" y="27" width="1366" height="692" />
     </state>
     <state x="461" y="131" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.692@0.27.1366.692" timestamp="1582423376116" />
-    <state width="1320" height="151" key="GridCell.Tab.0.bottom" timestamp="1582390995324">
+    <state width="1320" height="151" key="GridCell.Tab.0.bottom" timestamp="1582450873825">
       <screen x="0" y="27" width="1366" height="692" />
     </state>
-    <state width="1320" height="151" key="GridCell.Tab.0.bottom/0.27.1366.692@0.27.1366.692" timestamp="1582390995324" />
-    <state width="1320" height="151" key="GridCell.Tab.0.center" timestamp="1582390995324">
+    <state width="1320" height="151" key="GridCell.Tab.0.bottom/0.27.1366.692@0.27.1366.692" timestamp="1582450873825" />
+    <state width="1320" height="151" key="GridCell.Tab.0.center" timestamp="1582450873823">
       <screen x="0" y="27" width="1366" height="692" />
     </state>
-    <state width="1320" height="151" key="GridCell.Tab.0.center/0.27.1366.692@0.27.1366.692" timestamp="1582390995324" />
-    <state width="1320" height="151" key="GridCell.Tab.0.left" timestamp="1582390995323">
+    <state width="1320" height="151" key="GridCell.Tab.0.center/0.27.1366.692@0.27.1366.692" timestamp="1582450873823" />
+    <state width="1320" height="151" key="GridCell.Tab.0.left" timestamp="1582450873822">
       <screen x="0" y="27" width="1366" height="692" />
     </state>
-    <state width="1320" height="151" key="GridCell.Tab.0.left/0.27.1366.692@0.27.1366.692" timestamp="1582390995323" />
-    <state width="1320" height="151" key="GridCell.Tab.0.right" timestamp="1582390995324">
+    <state width="1320" height="151" key="GridCell.Tab.0.left/0.27.1366.692@0.27.1366.692" timestamp="1582450873822" />
+    <state width="1320" height="151" key="GridCell.Tab.0.right" timestamp="1582450873824">
       <screen x="0" y="27" width="1366" height="692" />
     </state>
-    <state width="1320" height="151" key="GridCell.Tab.0.right/0.27.1366.692@0.27.1366.692" timestamp="1582390995324" />
+    <state width="1320" height="151" key="GridCell.Tab.0.right/0.27.1366.692@0.27.1366.692" timestamp="1582450873824" />
     <state x="166" y="27" width="1024" height="692" key="SettingsEditor" timestamp="1582383028784">
       <screen x="0" y="27" width="1366" height="692" />
     </state>

@@ -5,7 +5,6 @@ import java.io.InputStreamReader;
 import java.net.Socket;
 
 public class ClientThreadRead extends Thread {
-
     private BufferedReader reader;
     private Socket socket;
     private  ChatClient chatClient;
